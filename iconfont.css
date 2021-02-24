@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1606664308820'); /* IE9 */
+  src: url('iconfont.eot?t=1606664308820#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAP8AAsAAAAACBwAAAOtAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDFAqDXIMkATYCJAMQCwoABCAFhG0HSRsPB8gOJS3B8ABgAABgBNVY2bM7T4DqLVD5VxBCFeHYpaJIaDIyLFxcPBtxg7llSvFzy5lL4TZHUvCykomodu4/8fo8l9O7q8Tnt7Ncxlw0NnXHvcMA44ACHHt5GBcoNozdRHkQywm0m5aAOKlq6ABSCbQLxAODTgWkKZesYYdWoblkaIpXoElreSG4AoCX/PfxH6SFlKKpAl1P71dqQckvx7cUOYIf4SolgHq8ALRRVGwCkrhZGrqMDLObSO3OfELbgGYplF9ObymeZ0wld7FO9fr/eEUlmgFmJ9gRc5Vfjpgm+OVEU/hFmd0gL1u3ogVvAF8l2+Q4bxHquDsR4+y4MFjO3fPcs8Lzzh1PwdKLDk4fOILjPJed8ySc298u8OqycK2Pw/rF3uSidZ4E8XDRsSiFYtGhqDUHfDuAgl5hwUo/qmPBUr+N56OV1FqHtdeVCuXm5ap7bxXcO+XdN9SIO+KLek7aMGKjl9P8zSM3yTsIuR93OsDcjZM3+xCruWrBiIOHCfL73dDs5967l9364Gv2N+OAC7dmSOVPF61ddT/sr/e9uWEN4uLH/pvd84tSwcCXpQuIoEdeC10Hh9rAc7/froCDAp63juVyZ9w+O3HkjMn7+h9fkdLkry2c22Xl6ym7JHzW1NMVJy9fb/+krPLuoxSWOL5dcMX9GeBbzgpFTfkdymUFUcU9e1RuHD16Y+Xnh85hgWE34A1pS2froJyyHEpsxYKORCf3IHenRGlt85wsD4FgIGtO6JIlFLwggaAYDGwAGifIPWQt/58fk6L6DGhsq7fItj/azJWlwtxeLgXfpA6Xlfj54QXmJe2LtCpo6v/nSKKG+KtztcCdaRvVWoTt49Lum0gXtMMYDSnW7+kYliGHSWg1FKNoMYWq1SKZgk006bCDZq320W5D9egOA1ikyDasGysg9NqOottHVL2ukil4gibDvqBZb5BodxYeU3ZYDoO8nEUqjLRQPRAaNIyVRl4sD9htSNfXrGKTWi5UINZuSMDUpJRsoRpZETtGD3s/XRrGNKRZxgKrhNWQ2cxAG8sYkQYn6TG25SUn02UPStIwFiB3jIWoYIgWpDYQZKDBsKJpZUye+34bRKcvMxW2htORVUBYdobaoVRJUlqQ1SZrK861nGLXj04aDKNBNBbDAqoSAogZZhmQrbyREaKBJdH3SNvkSZbK0W1NSfNbLE+4CtqBrhklamQ0ablrUFkHobSjhjGbD1VxG/US1WLM9FUbBgAAAAAA') format('woff2'),
+  url('iconfont.woff?t=1606664308820') format('woff'),
+  url('iconfont.ttf?t=1606664308820') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1606664308820#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dianzan:before {
+  content: "\e60c";
+}
+
+.icon-collection-b:before {
+  content: "\e60d";
+}
+
+.icon-toubix:before {
+  content: "\e655";
+}
+
